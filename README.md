@@ -1,1 +1,1 @@
-# hockey
+# Mighty Ducks Hockey League
